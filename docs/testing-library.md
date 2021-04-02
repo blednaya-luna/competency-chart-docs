@@ -1,6 +1,6 @@
 # [Testing Library](https://testing-library.com/)
 
-#### Packages:
+## Packages:
 - [@testing-library/jest-dom](https://github.com/testing-library/jest-dom)
 - [@testing-library/react](https://github.com/testing-library/react)
 - [@testing-library/user-event](https://github.com/testing-library/user-event)
@@ -8,5 +8,5 @@
 - [eslint-plugin-testing-library](https://www.npmjs.com/package/eslint-plugin-testing-library)
 - [eslint-plugin-jest-dom](https://www.npmjs.com/package/eslint-plugin-jest-dom)
 
-##### Articles:
+## Articles:
 - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
