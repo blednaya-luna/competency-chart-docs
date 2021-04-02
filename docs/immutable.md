@@ -1,6 +1,6 @@
 # [Immutable](https://immutable-js.github.io/immutable-js/)
 
-##### Base level:
+##### Base level
 - Знание самых распространённых структур данных:
     + [List](https://immutable-js.github.io/immutable-js/docs/#/List)
     + [Map](https://immutable-js.github.io/immutable-js/docs/#/Map)
@@ -12,7 +12,7 @@
     + [find()](https://immutable-js.github.io/immutable-js/docs/#/Collection/find)
     + [filter()](https://immutable-js.github.io/immutable-js/docs/#/Collection/filter)
 
-##### Regular level:
+##### Regular level
 - Расширенные структуры данных:
     + [OrderedMap](https://immutable-js.github.io/immutable-js/docs/#/OrderedMap)
     + [OrderedSet](https://immutable-js.github.io/immutable-js/docs/#/OrderedSet)
@@ -27,7 +27,7 @@
     + [every()](https://immutable-js.github.io/immutable-js/docs/#/Collection/every)
     + [some()](https://immutable-js.github.io/immutable-js/docs/#/Collection/some)
 
-##### Progressive level:
+##### Progressive level
 - Структуры данных:
     + [Stack](https://immutable-js.github.io/immutable-js/docs/#/Stack)
     + [Seq](https://immutable-js.github.io/immutable-js/docs/#/Seq)
